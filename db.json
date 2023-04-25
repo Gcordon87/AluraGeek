@@ -1,0 +1,64 @@
+{
+  "producto": [
+    {
+      "name": "Link and Map",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ravkbHxoL._AC_SY679_.jpg",
+      "price": "150.99",
+      "id": 1
+    },
+    {
+      "name": "Link Bow",
+      "imageUrl": "https://m.media-amazon.com/images/I/41cwcYuI4oL._SL500_.jpg",
+      "price": "200.00",
+      "id": 2
+    },
+    {
+      "name": "Hyrule Shield",
+      "imageUrl": "https://m.media-amazon.com/images/I/51JMK-LFkcL._AC_SX425_.jpg",
+      "price": "130.00",
+      "id": 3
+    },
+    {
+      "name": "Zelda and Map",
+      "imageUrl": "https://elenanofriki.com/13527-medium_default/figura-nendoroid-zelda-10-cm-the-legend-os-zelda-breath-of-the-wild.jpg",
+      "price": "150.99",
+      "id": 4
+    },
+    {
+      "name": "Link and Epona",
+      "imageUrl": "https://elenanofriki.com/4473-medium_default/figura-nendoroid-link-deluxe-edition-10-cm-the-legend-of-zelda.jpg",
+      "price": "150.99",
+      "id": 5
+    },
+    {
+      "name": "Ocarina",
+      "imageUrl": "https://m.media-amazon.com/images/I/61YVHnoBOJL._AC_SX679_.jpg",
+      "price": "20.00",
+      "id": 6
+    },
+    {
+      "name": "Llavero",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41KF7boTZrL._AC_SX569_.jpg",
+      "price": "15.00",
+      "id": 7
+    },
+    {
+      "name": "Libro The Legend Of Zelda I",
+      "imageUrl": "https://www.thirdeditions.com/en/768-large_default/zelda-the-history-of-a-legendary-saga-volume-2-breath-of-the-wild-collector.jpg",
+      "price": "60.00",
+      "id": 8
+    },
+    {
+      "name": "Libro The Legend Of Zelda II",
+      "imageUrl": "https://www.thirdeditions.com/en/769-large_default/zelda-the-history-of-a-legendary-saga-volume-2-breath-of-the-wild-collector.jpg",
+      "price": "30.00",
+      "id": 9
+    },
+    {
+      "name": "Espada Maestra",
+      "imageUrl": "https://m.media-amazon.com/images/I/61sgI6XNnVL._AC_SX679_.jpg",
+      "price": "50.00",
+      "id": 10
+    }
+  ]
+}

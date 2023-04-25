@@ -1,0 +1,145 @@
+  /*-----------------------Banner-----------------------*/
+.destaque {
+	height: 315px;
+	padding: 32px 32px 0px 32px;
+	display: flex;
+	
+  }
+
+  .linkdiv{
+	display: grid;
+    align-content: center;
+	margin-left: 327px;
+	
+
+  }
+
+  .banner {
+	width: 751px;
+    height: 261px;
+    padding-left: -39px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;;
+  }
+
+  .banner h1 {
+	color: var(--texto-destaque);
+	font-size: 52px;
+	font-weight: bold;
+	text-shadow: 2px 2px 0px #323131, 5px 4px 0px rgb(0 0 0 / 15%);
+  }
+
+  .banner h4 {
+	color: var(--texto-destaque);
+	font-size: 22px;
+	font-weight: bold;
+	text-shadow: 2px 2px 0px #323131, 5px 4px 0px rgb(0 0 0 / 15%);
+  }
+
+  .banner button {
+	
+	border: solid 1px rgb(0, 0, 0);
+
+	height: 51px;
+	width: 130px;
+  }
+
+  /*-----------------------Main-----------------------*/
+
+  .general-prods {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+  }
+
+  .seccion-productos {
+	padding: 30px 150px 112px 150px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 50px;
+	justify-content: flex-start;
+	background-color: #f8f582;
+    border: solid 10px #eaf2fd;
+
+	
+  }
+
+  .prod-titulo {
+	
+	display: flex;
+    background-color: #0f4430;
+    border: solid 3px #eaf2fd;
+	justify-content: center;
+  }
+
+  .prod-titulo .titulo {
+	font-size: 32px;
+    font-weight: bold;
+    padding: 39px;
+	text-align: center;
+    color: #464646;
+  }
+
+  .mostrar-mas {
+	font-weight: bold;
+	margin-top: 25px;
+	color: var(--azul-destaque);
+	display: flex;
+	padding: 30px;
+  }
+
+  .div-verTodo {
+	display: flex;
+	gap: 0.4rem;
+	margin-right: 10px;
+  }
+
+  .producto {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 32px;
+	border: 2px solid #fff;
+    box-shadow: inset 0 -3em 3em rgba(0,0,0,0.1), 0 0 0 2px rgb(255,255,255), 0.3em 0.3em 1em rgba(0,0,0,0.3);
+  }
+
+  .verTodo {
+	width: 15px;
+	height: 15px;
+  }
+  
+  .product-name {
+	color: #464646;
+	font-weight: bold;
+	font-size: 13px;
+	text-align: center;
+
+  }
+  .precio {
+	color: #464646;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+  }
+  
+  .ver-producto {
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+  }
+  
+  img {
+	width: 176px;
+	height: 174px;
+  }
+  img.linksa{
+	width: 500px;
+	height: 500px;
+	align-items: center;
+  }
+  h1,
+  p {
+	margin: 8px 0px 8px 0px;
+	color: white;
+  }
